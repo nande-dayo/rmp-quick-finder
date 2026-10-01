@@ -1,0 +1,14 @@
+# 一時ファイル・中間ファイル
+rmp_rendered.html
+
+# メモ・対話ログ
+*.txt
+
+# Pythonキャッシュ
+__pycache__/
+*.py[cod]
+
+# OS固有のファイル
+Thumbs.db
+.DS_Store
+.vscode/
