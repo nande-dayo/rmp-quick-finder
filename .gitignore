@@ -1,9 +1,10 @@
 # 一時ファイル・中間ファイル
 rmp_rendered.html
 
-# メモ・対話ログ・下書き
+# メモ・対話ログ・下書き・画像
 *.txt
 note_article.html
+*.jpg
 
 # Pythonキャッシュ
 __pycache__/
